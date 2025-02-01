@@ -21,7 +21,7 @@ export default function App() {
         <View style={styles.logoBox}>
           <Ionicons name="key-outline" size={18} color="white" />
         </View>
-        <Text style={styles.logoText}>Parken.</Text>
+        <Text style={styles.logoText}>Login.</Text>
       </View>
 
       {/* Email Input */}
